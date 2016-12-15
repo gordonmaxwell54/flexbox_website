@@ -1,0 +1,179 @@
+.navigationbar {
+	display: flex;
+	flex-flow: row;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+
+}
+
+.header {
+	background-color: blue;
+	height: 60px;
+	width: 100%;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	font-size: 60px;
+	color: white;
+	font-family: 'Russo One', sans-serif;
+	padding-bottom: 50px;
+}
+
+.whitetext {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 50px;
+	color: white;
+	font-family: 'Abril Fatface', cursive;
+	margin: 0 auto;
+
+}
+
+.blacktext {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 50px;
+	color: black;
+	font-family: 'Abril Fatface', cursive;
+	margin: 0 auto;
+}
+
+.box1 {
+	display: flex;
+	background-color: #18C7A8;
+	height: 400px;
+	width: 75%;
+	background-image: url(../images/mountain.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box2 {
+	display: flex;
+	background-color: #39C70F;
+	height: 400px;
+	width: 25%;
+	background-image: url(../images/biking.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box3 {
+	display: flex;
+	background-color: #C70014;
+	height: 400px;
+	width: 75%;
+	background-image: url(../images/bird.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box4 {
+	display: flex;
+	background-color: #C713C4;
+	height: 400px;
+	width: 25%;
+	background-image: url(../images/field.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box5 {
+	display: flex;
+	background-color: #7AC753;
+	height: 400px;
+	width: 75%;
+	background-image: url(../images/desert.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box6 {
+	display: flex;
+	background-color: #7B5300;
+	height: 400px;
+	width: 25%;
+	background-image: url(../images/tapes.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box7 {
+	display: flex;
+	background-color: #537FC7;
+	height: 400px;
+	width: 33.3%;
+	background-image: url(../images/building.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box8 {
+	display: flex;
+	background-color: #7B2400;
+	height: 400px;
+	width: 33.3%;
+	background-image: url(../images/windmill.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box9 {
+	display: flex;
+	background-color: #C7B813;
+	height: 400px;
+	width: 33.3%;
+	background-image: url(../images/light.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box10 {
+	display: flex;
+	background-color: #C75F5E;
+	height: 400px;
+	width: 33.3%;
+	background-image: url(../images/mountain2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box11 {
+	display: flex;
+	background-color: #C74000;
+	height: 400px;
+	width: 33.3%;
+	background-image: url(../images/mountain3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.box12 {
+	display: flex;
+	background-color: #C71348;
+	height: 400px;
+	width: 33.3%;
+	background-image: url(../images/mountain4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
